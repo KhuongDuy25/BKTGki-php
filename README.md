@@ -20,8 +20,10 @@ Cấu trúc Thư mục và Tệp
     RewriteCond %{REQUEST_FILENAME} !-d
     
     RewriteRule ^(.*)$ index.php/$1 [L]
-    
+
 </IfModule>
 
- # RewriteBase /Baitapgiuaki-Khuong-21010594/public/: Thiết lập đường dẫn cơ sở cho các quy tắc rewrite để chạy trên trình duyệt với URL: http://localhost/Baitapgiuaki-Khuong-21010594/public/helloworld
+RewriteBase /Baitapgiuaki-Khuong-21010594/public/: Thiết lập đường dẫn cơ sở cho các quy tắc rewrite để chạy trên trình duyệt với URL: http://localhost/Baitapgiuaki-Khuong-21010594/public/helloworld
+
+
 
