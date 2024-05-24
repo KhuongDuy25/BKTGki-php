@@ -1,9 +1,10 @@
 1. Cấu trúc Thư mục và Tệp
-Controller: C:\xampp\htdocs\Baitapgiuaki-Khuong-21010594\app\Controllers\HelloWorld.php
-View: C:\xampp\htdocs\Baitapgiuaki-Khuong-21010594\app\Views\helloworld.php
-Routes: C:\xampp\htdocs\Baitapgiuaki-Khuong-21010594\app\Config\Routes.php
+-Controller: C:\xampp\htdocs\Baitapgiuaki-Khuong-21010594\app\Controllers\HelloWorld.php
 
-Cấu hình lại file .htaccess trong folder public
+-View: C:\xampp\htdocs\Baitapgiuaki-Khuong-21010594\app\Views\helloworld.php
+-Routes: C:\xampp\htdocs\Baitapgiuaki-Khuong-21010594\app\Config\Routes.php
+
+-Cấu hình lại file .htaccess trong folder public
 <IfModule mod_rewrite.c>
     RewriteEngine On
     RewriteBase /Baitapgiuaki-Khuong-21010594/public/
